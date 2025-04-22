@@ -1,6 +1,6 @@
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/lucas-panfieti/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Lucas+Panfieti" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Lucas+Panfieti!" alt="Typing SVG">
   </a>
 </div>
 
