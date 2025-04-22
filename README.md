@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lucas-panfieti/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Lucas+Panfieti" alt="Typing SVG">
   </a>
@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de estágio na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos por meio de cursos livres de programação, com foco em linguagens como Python, JavaScript (React) e outras tecnologias. Busco um ambiente onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo como desenvolvedor.
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de estágio na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos por meio de cursos livres de programação, com foco em linguagens como Python, JavaScript (React) e outras tecnologias. Busco um ambiente onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo como desenvolvedor.
   
 #
 
