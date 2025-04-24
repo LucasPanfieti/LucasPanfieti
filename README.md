@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F90&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Lucas+Panfieti!" alt="Typing SVG">
   </a>
 </div>
-
+ 
 #
 
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de estágio na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos por meio de cursos livres de programação, com foco em linguagens como Python, JavaScript (React) e outras tecnologias. Busco um ambiente onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo como desenvolvedor.
