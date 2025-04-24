@@ -16,7 +16,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
           color_snake: '#00FFFF' # azul neon
-          color_dots: '#444444,#3b3b3b,#2a2a2a,#1a1a1a,#000000'
+          color_dots: '#333333' # ponto escuro (cinza)
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
