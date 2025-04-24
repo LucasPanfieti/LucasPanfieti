@@ -15,7 +15,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: '#FF00F9' # Altere aqui para a cor desejada
+          color_snake: '#00FFFF' # Altere aqui para a cor desejada
           color_dots: '#444444,#3b3b3b,#2a2a2a,#1a1a1a,#000000' # opcional
       - uses: crazy-max/ghaction-github-pages@v4
         with:
