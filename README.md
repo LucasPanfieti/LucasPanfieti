@@ -15,6 +15,8 @@
 <div> 
   <a href = "mailto:lucaspanfieti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="http://www.linkedin.com/in/lucas-panfieti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5511987423930" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
