@@ -46,7 +46,7 @@
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LucasPanfieti&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F90&text_color=FFF&border_radius=9&border_color=FF00F90&icon_color=FF00F90&theme=jolly" alt="GitHub stats">
 
-  <a href="https://github.com/mari4souza/github-readme-stats">
+  <a href="https://github.com/LucasPanfieti/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LucasPanfieti&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F90&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=9&border_color=FF00F90&count_private=true" alt="Most Used Languages">
   </a>
 </div>
