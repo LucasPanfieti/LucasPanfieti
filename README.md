@@ -6,7 +6,7 @@
  
 #
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade de estágio na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos por meio de cursos livres de programação, com foco em linguagens como Python, JavaScript (React) e outras tecnologias. Busco um ambiente onde eu possa aplicar na prática o que venho aprendendo e continuar evoluindo como desenvolvedor.
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como Python, JavaScript (React) e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.
   
 #
 
