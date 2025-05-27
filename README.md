@@ -6,7 +6,7 @@
  
 #
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como, HTML, CSS, JavaScript, React, Next.Js, Python, MySQL e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.
+<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como, HTML, CSS, JavaScript, React, Next.Js, Python, MySQL e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.
   
 #
 
