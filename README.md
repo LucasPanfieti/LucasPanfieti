@@ -18,7 +18,7 @@
   </ul>
 </div>
 
-## 👤 &nbsp;Sobre mim
+## 👤 &nbsp;About me
 
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como, HTML, CSS, JavaScript, React, Next.Js, Python, MySQL e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.</p>
 
@@ -71,36 +71,6 @@
 [![Database Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/LucasPanfieti) 
 
 <!--
-
-## &nbsp;Sobre mim
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-panfieti/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ffee&center=true&vCenter=true&random=false&width=524&lines=+Ola,+eu+sou+o+Lucas+Panfieti!" alt="Typing SVG">
-  </a>
-</div>
-
- 
-<div>
-<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como, HTML, CSS, JavaScript, React, Next.Js, Python, MySQL e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.</p>
-  </div>
-<br>
-
-## &nbsp;Connect with me
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left"> 
-  <a href = "mailto:lucaspanfieti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/lucas-panfieti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
-
-<br>
 
 
 
@@ -176,106 +146,3 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
 
 
-<!--
-
-#
-#
-#
-#
-#
-
-
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Panfieti!;Sou+Desenvolvedor+Front+End;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
-[![Lucas Panfieti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPanfieti&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/LucasPanfieti/)
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=LucasPanfieti&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
-</p>
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"> Welcome to my profile!
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-## 👤 &nbsp;About Me
-
-Turning ideas into reality through software has always been my goal. My journey began at 15 with a technical IT course, and since then I’ve been exploring web and chatbot development, enjoying every step of the learning process. Teaching and sharing knowledge is a big part of what I do today.
-
-### Quick Facts
-
-- 🎓 Currently studying Software Engineering at PUC Minas
-- 💻 Experienced with Node.js, Java, chatbot & web projects
-- 📺 Content creator on YouTube and Instagram, passionate about helping others
-- 🚀 Co-founded and served as CXO at a startup
-
-### Connect with me
-
-<a href = "mailto:arturbcolen@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href = "https://www.instagram.com/arturbomtempo.dev/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/artur-bomtempo/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-<a href="https://medium.com/@arturbcolen" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Medium-67cb57?style=for-the-badge&logo=medium&logoColor=fff" target="_blank"></a>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## ⭐️ &nbsp;GitHub Stats
-
-<a href="https://github.com/LucasPanfieti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPanfieti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanfieti&layout=compact&langs_count=6&theme=merko"/>
-</a>
-
----
-
-## 🛠 &nbsp;Languages & Techs
-
-### Tools
-
-[![Development Tools](https://skillicons.dev/icons?i=git,github,figma,windows,vscode)](https://github.com/LucasPanfieti)
-
-### Back-end
-
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,python,django,c)](https://github.com/LucasPanfieti)
-
-### Front-end
-
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next)](https://github.com/LucasPanfieti)
-
-### Database
-
-[![Database Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/LucasPanfieti)
-
-### Mobile
-
-[![Mobile Development Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://github.com/arturbomtempo-dev)
-
-<br>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=LucasPanfieti&color=67cb57" alt="Profile views" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=footer"/>
-
-
--->
