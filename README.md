@@ -18,20 +18,25 @@
   </ul>
 </div>
 
-## 👤 &nbsp;About me
+## 👤 &nbsp;About me:
 
 <p align="justify">Estudante de Análise e Desenvolvimento de Sistemas, atualmente atuando como estagiário na área de tecnologia. Tenho me dedicado a aprimorar meus conhecimentos em linguagens como, HTML, CSS, JavaScript, React, Next.Js, Python, MySQL e outras tecnologias por meio de cursos livres e projetos práticos. Busco continuar aplicando e expandindo minhas habilidades em um ambiente desafiador que contribua para meu desenvolvimento como desenvolvedor.</p>
 
-### Quick Facts
+### Quick Facts:
 
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas
 - 💻 Estágiario de Desenvolvimento de Software
 - 🚀 Experiência com HTML, CSS, JavaScript, Next.js, React.js, Python, Git e GitHub
 
-### Connect with me
-
+### Connect with me:
+<!--
 <a href = "mailto:lucaspanfieti@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-panfieti/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-panfieti/"><img src="[![Development Tools](https://skillicons.dev/icons?i=linkedin)](https://github.com/LucasPanfieti)"></a>
+-->
+
+[![Development Tools](https://skillicons.dev/icons?i=gmail)](mailto:lucaspanfieti@gmail.com)
+[![Development Tools](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-panfieti/)
+[![Development Tools](https://skillicons.dev/icons?i=github)](https://github.com/LucasPanfieti/)
 
 ---
 
@@ -71,9 +76,6 @@
 [![Database Skills](https://skillicons.dev/icons?i=mysql)](https://github.com/LucasPanfieti) 
 
 <!--
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 
