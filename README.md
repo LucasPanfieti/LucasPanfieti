@@ -69,7 +69,7 @@
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next)](https://github.com/LucasPanfieti)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,next)](https://github.com/LucasPanfieti)
 
 ### Database
 
