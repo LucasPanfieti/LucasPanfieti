@@ -65,7 +65,11 @@
 
 ### Back-end
 
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,python,c)](https://github.com/LucasPanfieti)
+
+<!--
 [![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,java,python,django,c)](https://github.com/LucasPanfieti)
+-->
 
 ### Front-end
 
