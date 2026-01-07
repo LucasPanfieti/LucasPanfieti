@@ -6,13 +6,13 @@
 
 ## 👤 &nbsp;Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente atuando como **estagiário em desenvolvimento de software**. Tenho experiência com **HTML, CSS, JavaScript, React, Next.js, Python e MySQL**, sempre buscando aprender novas tecnologias e aplicá-las em projetos práticos.  
+Formado em **Análise e Desenvolvimento de Sistemas**, atualmente atuo como **Software Developer**. Tenho experiência e foco no desenvolvimento de soluções utilizando **HTML, CSS, JavaScript, React, Next.js**, além de conhecimentos em **Python** e **MySQL**, adquiridos por meio de projetos práticos e estudos contínuos. Busco evoluir constantemente, aplicando boas práticas e expandindo minhas habilidades em ambientes desafiadores, contribuindo para o desenvolvimento de soluções eficientes e de qualidade.  
 
 ---
 
 ## ⚡ &nbsp;Fatos rápidos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas  
-- 💻 Estagiário de Desenvolvimento de Software  
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 💻 Software Developer  
 - 🚀 Experiência com Front-end e boas práticas de versionamento com Git/GitHub  
 
 ---
