@@ -37,15 +37,6 @@ Formado em **Análise e Desenvolvimento de Sistemas**, atualmente atuo como **So
 
 ---
 
-## 📊 &nbsp;Estatísticas do GitHub
-
-<a href="https://github.com/LucasPanfieti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPanfieti&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPanfieti&layout=compact&langs_count=6&theme=merko"/>
-</a>
-
----
-
 ## 📈 &nbsp;Gráfico de Atividades
 
 [![Lucas Panfieti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasPanfieti&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&hide_border=true)](https://github.com/LucasPanfieti/)
@@ -67,11 +58,11 @@ Formado em **Análise e Desenvolvimento de Sistemas**, atualmente atuo como **So
 
 ## 🐍 &nbsp;Minhas Contribuições
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/LucasPanfieti/LucasPanfieti/output/github-contribution-grid-snake-dark.svg"
+    alt="github contribution grid snake animation">
+</p>
 
 ---
 
